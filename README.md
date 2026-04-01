@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Caintroduction
+안녕하세요. 영남대학교 23학번으로 2학년 재학중입니다.
+
+## Carrer
+영남대학교 학부생
+
 <!--
 **sehun0420/sehun0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
