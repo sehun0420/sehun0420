@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Caintroduction
+## Introduction
 안녕하세요. 영남대학교 23학번으로 컴퓨터공학과 2학년 재학중입니다.
 
 ## Carrer
