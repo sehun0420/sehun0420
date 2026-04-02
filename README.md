@@ -11,7 +11,9 @@ e-mail: gns7269@yu.ac.kr
 
 ## Studying
 > python
+> 
 > C
+> 
 > C++
 
 <!--
