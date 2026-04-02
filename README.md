@@ -6,10 +6,10 @@
 
 영남대학교 학부생
 
-## Contact
+## Contact 
 e-mail: gns7269@yu.ac.kr
 
-## Studying
+## Studying 📖
 > python
 > 
 > C
