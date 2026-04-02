@@ -8,6 +8,9 @@
 
 영남대학교 학부생
 
+## Contact
+e-mail: gns7269@yu.ac.kr
+
 <!--
 **sehun0420/sehun0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
