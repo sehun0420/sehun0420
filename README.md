@@ -9,6 +9,11 @@
 ## Contact
 e-mail: gns7269@yu.ac.kr
 
+## Studying
+> python
+> C
+> C++
+
 <!--
 **sehun0420/sehun0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
